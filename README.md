@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @youneselmans1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I'm @youneselmans1
+- 👀 I am interested in programming and design
+- 🌱 I'm currently learning to design
+- 💞️ I'm looking forward to collaborating on learning more about him
+- 📫 How do I get more information
 
 <!---
 youneselmans1/youneselmans1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
